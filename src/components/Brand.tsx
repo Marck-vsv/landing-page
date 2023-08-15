@@ -1,5 +1,8 @@
-﻿export function Brand () {
+﻿import Image from "next/image"
+import LogoImg from '@/assets/preto1-Recuperado.svg'
+
+export function Brand () {
   return (
-    <h1 className="pt-3 px-4 py-0 font-bold cursor-pointer text-3xl">Tércio</h1>
+    <Image className="" src={LogoImg.src} alt="Logo Dr Tercio Camara" width={200} height={450}/>
   )
 }

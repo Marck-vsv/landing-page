@@ -1,5 +1,5 @@
 ﻿export function Line () {
   return (
-    <div className="border-b border-b-gray-700 opacity-30"/>
+    <div className="my-3 border-b border-b-gray-700 opacity-30"/>
   )
 }
