@@ -33,7 +33,7 @@ export function Footer () {
               </a>
         </div>
       </div>
-
+  
       <div className="bg-[#f2f2f2]">
         <div className="m-auto max-w-screen-xl flex sm:items-center sm:px-4 sm:py-2 sm:flex-row justify-between">
           <div id='left-footerinfo'>
